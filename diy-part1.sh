@@ -6,7 +6,7 @@
 # Lisence: MIT
 # Author: P3TERX
 # Blog: https://p3terx.com
-#=============================================================
+
 
 # fw876/helloworld
 sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
